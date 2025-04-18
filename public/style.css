@@ -12,15 +12,6 @@
 .card-container::-webkit-scrollbar {
   display: none;
 }
-@keyframes scrollTestimonials {
-  0% {
-    transform: translateX(0%);
-  }
-
-  100% {
-    transform: translateX(-50%);
-  }
-}
 
 .leaders-box {
   background: linear-gradient(to bottom right, #4b0082, #800080);
